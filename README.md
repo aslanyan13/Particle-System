@@ -1,2 +1,2 @@
-# PartycleSystem
-Partycles system realised with C++ SFML
+# Particle System
+Particles system realised with C++ SFML
